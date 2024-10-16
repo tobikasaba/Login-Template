@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49fbae7a-91a7-4077-9a0f-9e9bb31a8052" name="Changes" comment="testing allowing all hosts">
-      <change beforePath="$PROJECT_DIR$/learning_users/learning_users/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_users/learning_users/settings.py" afterDir="false" />
+    <list default="true" id="49fbae7a-91a7-4077-9a0f-9e9bb31a8052" name="Changes" comment="changed host">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729102332076</updated>
-      <workItem from="1729102333337" duration="4411000" />
+      <workItem from="1729102333337" duration="5819000" />
     </task>
     <task id="LOCAL-00001" summary="Project on Building a web app where users can register and log in">
       <option name="closed" value="true" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729108153324</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changed host">
+      <option name="closed" value="true" />
+      <created>1729110563329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729110563329</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +145,7 @@
     <MESSAGE value="uploading gitignore" />
     <MESSAGE value="updating allowed hosts" />
     <MESSAGE value="testing allowing all hosts" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing allowing all hosts" />
+    <MESSAGE value="changed host" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed host" />
   </component>
 </project>
