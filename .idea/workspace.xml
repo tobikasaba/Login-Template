@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49fbae7a-91a7-4077-9a0f-9e9bb31a8052" name="Changes" comment="uploading gitignore" />
+    <list default="true" id="49fbae7a-91a7-4077-9a0f-9e9bb31a8052" name="Changes" comment="testing allowing all hosts">
+      <change beforePath="$PROJECT_DIR$/learning_users/learning_users/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_users/learning_users/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729102332076</updated>
-      <workItem from="1729102333337" duration="3400000" />
+      <workItem from="1729102333337" duration="4411000" />
     </task>
     <task id="LOCAL-00001" summary="Project on Building a web app where users can register and log in">
       <option name="closed" value="true" />
@@ -108,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729103004707</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updating allowed hosts">
+      <option name="closed" value="true" />
+      <created>1729107889931</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729107889931</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testing allowing all hosts">
+      <option name="closed" value="true" />
+      <created>1729108153324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729108153324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project on Building a web app where users can register and log in" />
     <MESSAGE value="uploading gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploading gitignore" />
+    <MESSAGE value="updating allowed hosts" />
+    <MESSAGE value="testing allowing all hosts" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing allowing all hosts" />
   </component>
 </project>
