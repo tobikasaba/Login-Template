@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 import os.path
 from pathlib import Path
+import logging
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -26,9 +27,11 @@ MEDIA_DIR = BASE_DIR / 'media'
 SECRET_KEY = 'django-insecure-o14jr6#uiv+gid3#15a)r&+4g_q4gdg3@rkyw7$pl(a6(hk)+$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['tobikasaba.pythonanywhere.com']
+logger = logging.getLogger(__name__)
+logger.error(f"ALLOWED_HOSTS: {ALLOWED_HOSTS}")
 
 # Application definition
 
